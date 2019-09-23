@@ -18,29 +18,26 @@ header .logo{
 }
 
 header .logo a img{
-    padding-left: 10px;
+    padding-left: 50%;
     width: 80px
     
 }
 header .name{
-    padding: 24px 0 0 120px
-    
+    padding: 1.8% 0 0 12%
     
 }
-header .name{
-    width: 3000px
-}
+
 header .name p{
-    padding-top: 5px
+    padding-top: 0.375%
 }
 
 header .menu ul{
-    margin:-27px 100px 0 0
+    margin:-2% 7.5% 0 0
 }
 header .menu ul li{
     
     float:right; 
-    padding: 0 30px;
+    padding: 0 2%;
 }
 .clear{
     width:1px;height:0;clear:both;
