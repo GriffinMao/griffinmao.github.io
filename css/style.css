@@ -395,6 +395,9 @@ a:active {
 .navigation.animated .menu a {
   color: #666;
 }
+.navigation.animated .menu a:hover{
+  color: #999;
+} 
 
 .menu li a {
   color: #fff;
@@ -404,12 +407,12 @@ a:active {
 
 .menu li a:hover{
   background:none;
-  color: red;
+  color: #666;
   
 }
 .menu li a:focus {
   background:none;
-  color: red;
+  color: #666;
   
 }
 
