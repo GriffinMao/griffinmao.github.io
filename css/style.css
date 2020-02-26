@@ -402,9 +402,15 @@ a:active {
   font-weight: bold;
 }
 
-.menu li a:hover,
+.menu li a:hover{
+  background:none;
+  color: red;
+  
+}
 .menu li a:focus {
-  background: none;
+  background:none;
+  color: red;
+  
 }
 
 /*--
@@ -574,11 +580,3 @@ footer p {
   letter-spacing: 3px;
 }
 
-footer p a {
-  color: #fff;
-}
-
-footer p a:hover {
-  color: #fff;
-  text-decoration: none;
-}
