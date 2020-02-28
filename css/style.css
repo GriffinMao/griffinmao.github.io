@@ -113,8 +113,8 @@ a:active {
 }
 
 .btn-home {
-  background-color: #1bafb4;
-  border-radius: 0px;
+  background-color: #555;
+  border-radius: 6px;
   color: #fff;
   font-size: 18px;
   padding: 10px 40px;
@@ -161,7 +161,7 @@ a:active {
   border-top: 5px solid #ecf0f1;
   border-bottom: 5px solid #ecf0f1;
   border-right: 5px solid #ecf0f1;
-  background: #1bafb4;
+  background: #555;
   width: 50px;
   height: 60px;
   -webkit-transform-origin: 0% 50%;
@@ -198,11 +198,11 @@ a:active {
   }
 
   20% {
-    background: #1bafb4;
+    background: #555;
   }
 
   29.9% {
-    background: #1bafb4;
+    background: #555;
   }
 
   30% {
@@ -222,13 +222,13 @@ a:active {
   60% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4;
+    background: #555;
   }
 
   100% {
     -webkit-transform: perspective(200px) rotateY(-180deg);
     transform: perspective(200px) rotateY(-180deg);
-    background: #1bafb4;
+    background: #555;
   }
 }
 
@@ -407,12 +407,12 @@ a:active {
 
 .menu li a:hover{
   background:none;
-  color: #666;
+  color: #555;
   
 }
 .menu li a:focus {
   background:none;
-  color: #666;
+  color: #555;
   
 }
 
@@ -431,7 +431,7 @@ a:active {
   font-size: 30px;
   display: inline-block;
   margin-bottom: 15px;
-  color: #1bafb4;
+  color: #555;
 }
 
 .service .block h3 {
@@ -513,7 +513,7 @@ a:active {
   border-radius: 0;
   border: none;
   box-shadow: none;
-  background: #1bafb4;
+  background: #555;
   padding: 0px 35px;
   color: #fff;
   font-weight: bold;
@@ -532,7 +532,7 @@ a:active {
 
 .btn-send {
   line-height: 48px;
-  border: 2px solid #1bafb4;
+  border: 2px solid #758485;
   background: #1bafb4;
   color: #fff;
   width: 100%;
