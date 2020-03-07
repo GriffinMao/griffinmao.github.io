@@ -10,6 +10,10 @@ body {
   -webkit-font-smoothing: antialiased;
 }
 
+.container .navbar img{
+  width: 200px;
+}
+
 h1,
 h2,
 h3,
@@ -113,7 +117,7 @@ a:active {
 }
 
 .btn-home {
-  background-color: #555;
+  background-color: #28c690;
   border-radius: 6px;
   color: #fff;
   font-size: 18px;
@@ -407,7 +411,7 @@ a:active {
 
 .menu li a:hover{
   background:none;
-  color: #555;
+  color: #999;
   
 }
 .menu li a:focus {
