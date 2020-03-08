@@ -1,0 +1,20 @@
+.works{
+    text-align: center;
+    background-color: burlywood;
+    margin-bottom: 4%;
+}
+
+.works .excerpt-title{
+    font-size: 2.5em;
+    line-height: 1.6;
+    font-family: "impact", sans-serif;
+    color: black;
+}
+
+.works .excerpt-content{
+    margin: 1.5em 0;
+}
+.works .excerpt-container{
+    padding-top: 3%;
+    padding-bottom: 1%;
+}

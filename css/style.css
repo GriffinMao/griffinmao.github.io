@@ -308,6 +308,17 @@ a:active {
   line-height: 1.3;
 }
 
+.hero-area p .role {
+  font-weight: 200;
+}
+
+.hero-area p .brief {
+  font-weight: 200;
+  line-height: 1.6;
+  width: 85%;
+  color: #999
+}
+
 .hero-area .counter {
   background: rgba(255, 255, 255, 0.2);
   padding: 18px;
