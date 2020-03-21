@@ -81,6 +81,7 @@ a:active {
 
 .section {
   padding: 100px 0;
+  background-color: white;
 }
 
 /*--
@@ -443,7 +444,7 @@ a:active {
 --*/
 .service {
   text-align: center;
-  background-color: #272727;
+  background-color: #ffffff;
 }
 
 .service .block {
