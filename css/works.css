@@ -1,23 +1,52 @@
 .works{
     
-    background-color: burlywood;
+    background-color: #28292d;
     margin-bottom: 4%;
-    border-radius: 12px;
+    color: white;
+    text-align: center;
+    height: 320px;
 }
 
 .works .excerpt-title{
     font-size: 2.5em;
     line-height: 1.6;
     font-family: "impact", sans-serif;
-    color: black;
+    
 }
 
 .works .excerpt-content{
-    margin: 1.5em 0;
+    margin: 1.8em 0;
+    
 }
+.works .excerpt-content .more-link{
+    margin-top: 2em;
+}
+.works .excerpt-content a{
+    color: #ecb683;
+    font-size: 1.2em;
+}
+.works .excerpt-content p{
+    font-size: 1.2em;
+}
+
 .works .excerpt-container{
     padding-top: 3%;
     padding-bottom: 1%;
-    padding-left: 3%;
-    padding-right: 16%;
+    
 }
+.works .blog-img{
+    width: 50%;
+    height: 320px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.works:nth-child(2n) .blog-img{
+    float: left;
+}
+
+.works:nth-child(2n-1) .blog-img{
+    float: right;
+}
+

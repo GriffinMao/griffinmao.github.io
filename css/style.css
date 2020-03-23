@@ -20,7 +20,7 @@ h3,
 h4,
 h5,
 h6 {
-  font-weight: 300;
+  
   margin: 0px;
 }
 
@@ -106,12 +106,6 @@ a:active {
   line-height: 40px;
 }
 
-.heading p {
-  font-family: 'Cabin', serif;
-  font-size: 15px;
-  line-height: 24px;
-  font-weight: 300;
-}
 
 .btn {
   border-radius: 0;
