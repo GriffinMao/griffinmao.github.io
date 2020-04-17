@@ -122,11 +122,13 @@ a:active {
   border-color: #fdc591;
 }
 
-.btn-home:hover,
-.btn-home:focus {
+.btn-home:hover{
   background-color: #fff;
   color: #555;
-  border: 1px solid #fff;
+  border: 1px solid #ecb683;
+}
+.btn-home:focus{
+  color: #555;
 }
 
 /*Preloader*/
