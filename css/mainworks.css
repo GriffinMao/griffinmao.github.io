@@ -1807,7 +1807,7 @@ header.major {
 		}
 
 		.tiles article:nth-child(6n):before {
-			background-color: #ecb683;
+			background-color: #000000;
 		}
 
 	@media screen and (max-width: 1280px) {
